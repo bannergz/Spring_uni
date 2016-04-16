@@ -8,7 +8,7 @@
 
 
 <context:annotation-config/>
-<context:component-scan base-package="demo01"></context:component-scan>
+<context:component-scan base-package="demo02"></context:component-scan>
 
 
 
